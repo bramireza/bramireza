@@ -1,44 +1,30 @@
-# Hola, soy Brayian Ramirez 👋
+# 💫 About Me:
+Hi, I'm Brayian Ramirez 👋<br><br>🔭 I'm currently working on...<br>I'm currently working on an ecommerce, where I'm in charge of the backend development of the application. I'm using Node.js together with Express.js and PostgreSQL to build a robust and scalable system.<br><br>🌱 I'm learning...<br>I'm always looking to improve my skills and learn new technologies. Currently, I'm learning React.js to be able to integrate it into my daily work. I'm also improving my skills in concurrent programming through online courses and personal projects.<br><br>💬 Ask me about...<br>If you have any questions related to backend programming, feel free to ask me! I'm always willing to help and share my knowledge. You can ask me about SQL databases, RESTful APIs, among other topics.<br><br>⚡ Fun fact...<br>When I'm not programming, I like to listen to relaxed music like LofiGirl. I also like to watch movies and anime in my free time.<br>
 
-Soy un programador backend con experiencia en  
-- [![Laravel][laravel.com]][laravel-url] 
-- [![PHP][php.com]][php-url]
-- [![NODE][node.com]][node-url] 
-- [![Express][express.com]][express-url] 
-- ![SQLServer][sqlserver.com]
-- ![MySQL][mysql.com]
-- ![POSTGRESQL][postgresql.com].
 
-Me apasiona la creación de aplicaciones y sistemas escalables y eficientes.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brayian.17ra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brayian-ramirez-aguayo ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bramirezag) 
 
-## 🔭 Actualmente estoy trabajando en...
-Actualmente estoy trabajando en un ecommerce, donde estoy a cargo del desarrollo backend de la aplicación. Estoy utilizando Node.js junto con Express.js y PostgreSQL para construir un sistema robusto y escalable.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bramireza&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bramireza&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bramireza&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌱 Estoy aprendiendo...
-Estoy siempre en busca de mejorar mis habilidades y aprender nuevas tecnologías. Actualmente estoy aprendiendo React.js para poder integrarla en mi trabajo diario. También estoy mejorando mis habilidades en programación concurrente a través de cursos en línea y proyectos personales.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bramireza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💬 Pregúntame sobre...
-Si tienes alguna pregunta relacionada con programación backend, ¡no dudes en preguntarme! Estoy siempre dispuesto a ayudar y compartir mis conocimientos. Puedes preguntarme sobre bases de datos SQL, APIs RESTful, entre otros temas.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📫 Cómo contactarme...
-Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi correo electrónico bramirezag@gmail.com o puedes encontrarme en LinkedIn en [enlace a mi perfil de LinkedIn aquí](https://www.linkedin.com/in/brayian-ramirez-aguayo/). ¡Estoy ansioso por hablar contigo!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bramireza&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## ⚡ Dato curioso...
-Cuando no estoy programando, me gusta esuchar música relajada como LofiGirl. Tambien suelo ver películas y anime en mi tiempo libre.
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-¡Gracias por visitar mi perfil de GitHub!
+---
+[![](https://visitcount.itsvg.in/api?id=Bramireza&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[laravel-url]: https://laravel.com
-[php.com]: https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white
-[php-url]: https://php.net
-[node.com]: https://img.shields.io/badge/node-green?style=for-the-badge&logo=node&logoColor=white
-[node-url]: https://nodejs.org/es
-[express.com]: https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white
-[express-url]: https://expressjs.com/es/
-[sqlserver.com]: https://img.shields.io/badge/sqlserver-red?style=for-the-badge&logo=sqlserver&logoColor=white
-[mysql.com]: https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=white
-[postgresql.com]: https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
